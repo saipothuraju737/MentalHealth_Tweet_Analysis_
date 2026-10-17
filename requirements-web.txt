@@ -1,0 +1,5 @@
+# Minimal packages to run the new Flask frontend (flask_app.py)
+flask
+joblib
+scikit-learn==1.6.1
+xgboost
